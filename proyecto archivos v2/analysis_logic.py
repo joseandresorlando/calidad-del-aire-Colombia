@@ -1,10 +1,9 @@
-#Note: En Vista que se esscribe todo en ingles todos los comentarios estaran en dicho idioma
 from pathlib import Path
 
 import pandas as pd
 import matplotlib
 
-matplotlib.use("Agg")  # save figures to files without needing a display
+matplotlib.use("Agg")  # guarda figuras a los archivos sin necesitar display
 import matplotlib.pyplot as plt
 
 # Configuracion de constantes
@@ -58,7 +57,7 @@ NUMERIC_COLUMNS = [
     "percentile_98", "maximum_value", "minimum_value", "exceedance_days",
 ]
 
-#Columnas de estandarizacion texto.
+#Columnas de estandarizacion de texto.
 CATEGORICAL_COLUMNS = [
     "environmental_authority", "variable", "units",
     "department", "municipality", "station_type",
