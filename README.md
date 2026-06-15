@@ -1,6 +1,6 @@
 # calidad-del-aire-Colombia# Análisis de la Calidad del Aire en Colombia
 
-**Video** : https://youtu.be/UlW1CzozB1g
+**Video** : https://www.youtube.com/watch?v=3T5BwUZdgzk
 
 Trabajo final de **Programación para Ciencia de Datos** — Universidad del Magdalena.
 Análisis exploratorio del dataset **Calidad del Aire en Colombia** (datos.gov.co).
